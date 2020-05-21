@@ -1,12 +1,39 @@
 {
   "users": [
-    { "id": "1", "firstName": "Sarah", "age": 25, "companyId": "1" },
-    { "id": "2", "firstName": "George", "age": 20, "companyId": "2" },
-    { "id": "3", "firstName": "Sam", "age": 20, "companyId": "2" }
+    {
+      "id": "1",
+      "firstName": "Sarah",
+      "age": 25,
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "Sam Miller",
+      "age": 18,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Anna",
+      "age": 20,
+      "companyId": "3",
+      "id": "Xj3Sj89"
+    }
   ],
   "companies": [
-    { "id": "1", "name": "Apple", "description": "mac, iphone" },
-    { "id": "2", "name": "Microsoft", "description": "Windows" },
-    { "id": "3", "name": "Magisoft", "description": "Programming" }
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "mac, iphone"
+    },
+    {
+      "id": "2",
+      "name": "Microsoft",
+      "description": "Windows"
+    },
+    {
+      "id": "3",
+      "name": "Magisoft",
+      "description": "Programming"
+    }
   ]
 }
