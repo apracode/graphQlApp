@@ -23,7 +23,6 @@ class SongCreate extends React.Component {
       })
       .then(() => hashHistory.push("/"));
 
-    // this.setState({ title: "" });
   }
 
   render() {
