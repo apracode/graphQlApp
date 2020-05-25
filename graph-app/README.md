@@ -1,5 +1,5 @@
 # Lyrical-GraphQL
-Starter project from a GraphQL course on Udemy.com
+Starter project from a GraphQL course on Udemy.com.
 App has songs list.
 Every song has lyrics list.
 Every liryc has like button. 
