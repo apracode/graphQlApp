@@ -15,3 +15,4 @@ During this project was learned how to:
 6. Do mutations in React
 7. Fefetch queries
 8. DataIdFromObject refetch
+9. Optimistic Responses
